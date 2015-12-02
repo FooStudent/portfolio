@@ -1,0 +1,51 @@
+.navbar-header { padding-bottom: 44px; }
+.navbar-brand { font-family: proxima-nova-i6, proxima-nova, sans-serif; }
+#logo {
+	border-radius: 50%;
+	max-width: 55px;
+}
+h1, h2, h3 { padding-bottom: 60px; }
+#home {
+	font-family: proxima-nova-i6, proxima-nova, sans-serif;
+	min-height: 650px;
+	padding-top: 100px;
+	text-align: center;
+}
+img {	
+	border-radius: 15%;	
+	max-width: 200px;
+}
+#projects {
+	font-family: proxima-nova-i6, proxima-nova, sans-serif;
+	min-height: 650px;
+	padding-top: 100px;
+	background-color: #fff;
+	text-align: center;
+}
+#contact {
+	font-family: proxima-nova-i6, proxima-nova, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 1px rgba(0,0,0,0.2); 
+	min-height: 650px;
+	padding-top: 100px;
+	text-align: center;
+	background: url(../images/projects.jpg) no-repeat center fixed; 
+	background-size: cover;
+}
+.btn-github {
+	color: #fff;
+	background-color: #444;
+}
+.btn-linkedin {
+	color:#fff;
+	background-color:#007bb6;
+}
+.btn-facebook{
+	color: #fff;
+	background-color: #3b5998;
+}
+.btn-twitter {
+	color: #fff;
+	background-color: #55acee;
+}
+#license { font-family: proxima-nova-i6, proxima-nova, sans-serif; }
