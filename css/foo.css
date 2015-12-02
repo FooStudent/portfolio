@@ -48,4 +48,8 @@ img {
 	color: #fff;
 	background-color: #55acee;
 }
-#license { font-family: proxima-nova-i6, proxima-nova, sans-serif; }
+#license { 
+	font-family: proxima-nova-i6, proxima-nova, sans-serif;
+	text-align: center;
+}
+img, #license { border-radius: 0%;	}
